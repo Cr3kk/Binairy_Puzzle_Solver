@@ -1,0 +1,14 @@
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/bin/Debug/net8.0/Binairy_puzzle_solver
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/bin/Debug/net8.0/Binairy_puzzle_solver.deps.json
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/bin/Debug/net8.0/Binairy_puzzle_solver.runtimeconfig.json
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/bin/Debug/net8.0/Binairy_puzzle_solver.dll
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/bin/Debug/net8.0/Binairy_puzzle_solver.pdb
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.AssemblyInfoInputs.cache
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.AssemblyInfo.cs
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.csproj.CoreCompileInputs.cache
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.dll
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/refint/Binairy_puzzle_solver.dll
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.pdb
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/Binairy_puzzle_solver.genruntimeconfig.cache
+/Users/tijdelijk/Desktop/VScode/Binairy_puzzle_solver/obj/Debug/net8.0/ref/Binairy_puzzle_solver.dll
